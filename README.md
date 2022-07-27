@@ -1,3 +1,14 @@
+# Netflix-clone 🎞️
+App developed using React.js that reproduces the Netflix home screen interface with the following features:
+- Fixed header
+- Randomly generated recommended movie
+- Movie row side scroll buttons
+- 8 movie categories to view.
+
+The TMDB API was used to return information about movies and series.
+
+⚠️ It is not possible to watch any of the titles through this page. ⚠️
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
