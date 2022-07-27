@@ -1,7 +1,6 @@
 {
   "name": "netflixclone",
   "version": "0.1.0",
-  "homepage": "react_netflix_clone/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
